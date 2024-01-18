@@ -47,7 +47,7 @@ La tarea consiste en implementar la funcionalidad especificada usando el patrón
 
  Además se debe modificar este *README.md* para adjuntar el enlace a la simulación finalizada en [wokwi.com](https://wokwi.com):
 
-* Enlace a simulación: [**Poner aquí el enlace**]
+* Enlace a simulación: [**https://wokwi.com/projects/387220369608700929**]
 
 **Importante**: El entregable de esta tarea son **commits** con los siguientes archivos:
 
